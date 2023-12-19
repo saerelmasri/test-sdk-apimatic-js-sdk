@@ -39,14 +39,14 @@ Token URL: `https://auth.celitech.net/oauth2/token`
 Run the following command from your project directory to install the package from npm:
 
 ```ts
-npm install test-sdk-apimatic-sdk@1.0.1
+npm install test-sdk-apimatic-sdk@1.1.1
 ```
 
-For additional package details, see the [Npm page for the test-sdk-apimatic-sdk@1.0.1 npm](https://www.npmjs.com/package/test-sdk-apimatic-sdk/v/1.0.1).
+For additional package details, see the [Npm page for the test-sdk-apimatic-sdk@1.1.1 npm](https://www.npmjs.com/package/test-sdk-apimatic-sdk/v/1.1.1).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.0.1/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.1.1/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -179,14 +179,14 @@ if (previousToken) {
 
 ## List of APIs
 
-* [O Auth Authorization](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.0.1/doc/controllers/o-auth-authorization.md)
-* [Destinations](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.0.1/doc/controllers/destinations.md)
-* [E SIM](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.0.1/doc/controllers/e-sim.md)
-* [Packages](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.0.1/doc/controllers/packages.md)
-* [Purchases](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.0.1/doc/controllers/purchases.md)
+* [O Auth Authorization](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.1.1/doc/controllers/o-auth-authorization.md)
+* [Destinations](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.1.1/doc/controllers/destinations.md)
+* [E SIM](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.1.1/doc/controllers/e-sim.md)
+* [Packages](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.1.1/doc/controllers/packages.md)
+* [Purchases](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.1.1/doc/controllers/purchases.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.0.1/doc/api-response.md)
-* [ApiError](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.0.1/doc/api-error.md)
+* [ApiResponse](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.1.1/doc/api-response.md)
+* [ApiError](https://www.github.com/saerelmasri/test-sdk-apimatic-js-sdk/tree/1.1.1/doc/api-error.md)
 
